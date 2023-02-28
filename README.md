@@ -1,4 +1,4 @@
-# Flights-data-extractor-Spring-Batch-job-
+# Flights-data-extractor-Spring-Batch-job
 
 This project is used for extracting useful information on current flights. It uses API that
 holds the information from Flightradar 24 app. API is structured as JSON format, so the class
